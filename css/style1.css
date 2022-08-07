@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+.display {
+    width: 100%;
+    margin: 15% auto
+}
+
+.display input[type=text],
+.display input[type=password],
+.display input[type=email],
+.display input[type=tel],
+.display textarea {
+    margin: 0px 25px 20px 20px;
+    width: 79%;
+    padding: 5px;
+    font-family: century gothic;
+    font-size: 14px
+}
+
+.display input[type=submit] {
+    margin: 5px 0 10px 20px;
+    width: 30%;
+    padding: 5px;
+    font-family: century gothic;
+    font-size: 14px
+}
+
+article .media-container {
+    margin-bottom: 0px;
+}

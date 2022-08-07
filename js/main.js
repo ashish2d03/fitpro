@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".bxslider").bxSlider({captions:!1,controls:!1,startSlide:0,infiniteLoop:!0,pager:!0,auto:!0,autoControls:!1,pause:4e3,speed:500})})
